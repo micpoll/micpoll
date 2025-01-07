@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micpoll
 - 👀 I’m interested in Technology/AI
-- 🌱 I’m currently learning Computer Sience
+- 🌱 I’m currently learning Computer Sience, Kotlin
 - 💞️ I’m looking to collaborate on mobile apps, web development
 - 📫 How to reach me michalpolanski04@gmail
 
